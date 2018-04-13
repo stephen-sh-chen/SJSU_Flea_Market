@@ -1,2 +1,6 @@
-# SJSU_Flea_Market
-Implemented an E-Commerce flea market system for SJSU campus.
+# SJSU Flea Market
+SJSU flea market is a e-commerce platform for SJSU students. In this website, students can buy and sell goods and services to each other.
+
+
+
+Reference: https://github.com/renlok/WeBid
